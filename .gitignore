@@ -1,0 +1,5 @@
+debug/*
+TestMars/Debug/*
+*.Avi
+TestMars.suo
+*.swp
